@@ -16,9 +16,13 @@ A simple full-stack web application built with Node.js, Express (Backend) & Plai
 
 
  # 📂 Folder Structure
+ 
 greeting-app/
+---
 ├── backend/
-│   ├── server.js      # Node.js + Express backend
+---
+│   ├── server.js# Node.js + Express backend
+---
 │   ├── package.json   # Project dependencies
 │   ├── node_modules/  # Installed dependencies
 ├── frontend/
