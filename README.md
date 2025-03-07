@@ -18,23 +18,23 @@ A simple full-stack web application built with Node.js, Express (Backend) & Plai
  # 📂 Folder Structure
  
 greeting-app/
----
+
 ├── backend/
----
+
 │   ├── server.js# Node.js + Express backend
----
+
 │   ├── package.json   # Project dependencies
----
+
 │   ├── node_modules/  # Installed dependencies
----
+
 ├── frontend/
----
+
 │   ├── index.html     # Frontend UI
----
+
 │   ├── style.css      # Styling for frontend
----
+
 │   ├── script.js      # Fetch API integration
----
+
 ├── README.md          # Project documentation
 
 
@@ -66,6 +66,28 @@ Navigate to the frontend folder.
 Open index.html in any browser.
 
 Enter your name and click "Get Greeting" to fetch a response from the backend.
+
+
+
+# 📌 Technologies Used
+
+Backend: Node.js, Express.js
+
+Frontend: HTML, CSS, JavaScript
+
+API Handling: Fetch API
+
+Deployment (Optional): Vercel, Render
+
+# 📢 Contributing
+
+Feel free to fork this repository and improve the project!
+
+# 📄 License
+
+This project is open-source and free to use.
+
+
 
 
 
