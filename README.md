@@ -1,7 +1,7 @@
 # Greetingg-App(Full Stack Project)
 A simple full-stack web application built with Node.js, Express (Backend) & Plain HTML, CSS, and JavaScript (Frontend). The application allows users to enter their name and receive a greeting message from the backend API.
 
-🚀# Features
+#🚀 Features
 
 ✅ Simple UI with an input field and a button
 
