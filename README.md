@@ -39,3 +39,27 @@ greeting-app/
 
 
 
+
+
+# ⚙️ Setup Instructions
+---
+# 1️⃣ Clone the Repository
+git clone https://satishkumar1999.github.io/Greeting-Appp/
+cd greeting-app
+# 2️⃣ Install Dependencies & Run Backend
+cd backend
+npm install
+node server.js
+The backend will start running on http://localhost:3000.
+
+# 3️⃣ Open Frontend in Browser
+Navigate to the frontend folder.
+Open index.html in any browser.
+Enter your name and click "Get Greeting" to fetch a response from the backend.
+
+
+
+
+
+
+
